@@ -1,1 +1,1 @@
-# mini_projects
+# Hotal Management System
